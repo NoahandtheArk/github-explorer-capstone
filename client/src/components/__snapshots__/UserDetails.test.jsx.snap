@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserDetails renders correctly and matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <img
+      alt="Test User"
+      src="https://via.placeholder.com/150"
+      width="100"
+    />
+    <h1>
+      Test User
+    </h1>
+    <p>
+      A test bio
+    </p>
+    <a
+      class="external-link"
+      href="https://github.com/testuser"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      View profile on GitHub
+    </a>
+  </div>
+</DocumentFragment>
+`;
